@@ -1,6 +1,8 @@
 # CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
+This is a test wyq/
+
 But first, let's get you your own copy of this codebase to work with.
 
 ## Task 0 Forking a public repository on GitHub
@@ -163,7 +165,7 @@ Later in this course, you'll learn what all that mess means, but for now it is e
 - [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
-## How to test this code
+## How to test   this code
 
 How do you know that it's correct? Part of the problem here is that we can't
 easily test this program. The iteration and the calculation are tightly coupled.
